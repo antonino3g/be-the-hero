@@ -11,7 +11,6 @@
 
 ## :rocket: Technologies
 
-Esse projeto utilizou as seguintes tecnologias:
 
 Backend
 
@@ -77,7 +76,7 @@ $ npm run android
 
 ## :memo: License
 
-MIT [LICENSE](https://github.com/apfjunior/be-the-hero/blob/master/LICENSE).
+Este projeto está sob a licença MIT. Veja a [LICENSE](https://github.com/apfjunior/be-the-hero/blob/master/LICENSE) para mais informações.
 
 -----
 :wave: [Entrar em contato!](https://www.linkedin.com/in/antoninopraxedes/)
