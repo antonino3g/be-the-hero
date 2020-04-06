@@ -11,6 +11,8 @@
 
 ## :rocket: Technologies
 
+Database
+- [SQLite](https://www.sqlite.org/index.html)
 
 Backend
 
@@ -76,7 +78,7 @@ $ npm run android
 
 ## :memo: License
 
-Este projeto está sob a licença MIT. Veja clicando [aqui](https://github.com/apfjunior/be-the-hero/blob/master/LICENSE) para mais informações.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 -----
 :wave: [Entrar em contato!](https://www.linkedin.com/in/antoninopraxedes/)
