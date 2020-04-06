@@ -47,19 +47,19 @@ $ git clone https://github.com/apfjunior/be-the-hero.git
 # Entre no projeto
 $ cd be-the-hero
 
-# Vá ao diretório do backend e instale suas dependências
+# Vá ao diretório do backend e instale suas dependências 
 $ cd backend && npm i
 
-# Rode o backend
+# Rode o backend (Ps: Deixe um terminal dedicado)
 $ npm start
 
-# Vá ao diretório do frontend e instale suas dependências 
+# Em outro terminal, vá ao diretório do frontend e instale suas dependências 
 $ cd frontend && npm i
 
 # Rode o frontend
 $ npm start
 
-# Vá ao diretório do mobile e instale suas dependências
+# Vá no diretório do mobile e instale suas dependências
 $ cd ../mobile && npm i
 
 # Tenha pré-configurado algum emulador virtual ou rode no seu dispositivo por QRCode com Expo. Mais detalhes em https://expo.io/. 
