@@ -49,24 +49,24 @@ $ git clone https://github.com/apfjunior/be-the-hero.git
 # Entre no projeto
 $ cd be-the-hero
 
-# Vá ao diretório do backend e instale suas dependências 
+# Vá no diretório do backend e instale as dependências 
 $ cd backend && npm i
 
-# Rode o backend (Ps: Deixe um terminal dedicado)
+# Rode o backend (Ps: Deixe um terminal dedicado executando-o)
 $ npm start
 
-# Em outro terminal, vá ao diretório do frontend e instale suas dependências 
+# Em outro terminal, vá no diretório do frontend e instale as dependências 
 $ cd frontend && npm i
 
 # Rode o frontend
 $ npm start
 
-# Vá no diretório do mobile e instale suas dependências
+# Vá no diretório do backend e instale as dependências 
 $ cd ../mobile && npm i
 
-# Tenha pré-configurado algum emulador virtual ou rode no seu dispositivo por QRCode com Expo. Mais detalhes em https://expo.io/. 
+# Tenha pré-configurado algum emulador virtual (ex: Android Studio, Genymotion) ou rode no seu dispositivo por QRCode com Expo. Mais detalhes em https://expo.io/. 
 
-# Rodando em emuladores: 
+# Rodando com emuladores abertos: 
 
 # Run app (ios)
 $ npm run ios
@@ -81,4 +81,4 @@ $ npm run android
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 -----
-:wave: [Entrar em contato!](https://www.linkedin.com/in/antoninopraxedes/)
+:wave: [Entrar em contato](https://www.linkedin.com/in/antoninopraxedes/)
