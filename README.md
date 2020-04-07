@@ -43,6 +43,7 @@ Mobile
 Para clonar e rodar este projeto, necessita-se que tenha instalado [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) ou mais recente + [Yarn v1.13](https://yarnpkg.com/) ou mais atual em computador. Comandos para executar:
 
 ```bash
+
 # Escolha um diretório e clone o projeto
 $ git clone https://github.com/apfjunior/be-the-hero.git
 
@@ -64,8 +65,17 @@ $ npm start
 # Vá no diretório do backend e instale as dependências 
 $ cd ../mobile && npm i
 
-# Tenha pré-configurado algum emulador virtual (ex: Android Studio, Genymotion) ou rode no seu dispositivo por QRCode com Expo. Mais detalhes em https://expo.io/. 
-
+###
+# Tenha pré-configurado algum emulador virtual (ex: Android Studio, Genymotion) ou rode no seu dispositivo por QRCode com Expo. 
+# Mais detalhes em https://expo.io/. 
+#
+# Uma outra configuração necessária, antes de executar o projeto no disposito ou emulador
+# é alterar o ip local do projeto para o da sua máquina.
+# Edite o arquivo "api" em: /be-the-hero/mobile/src/services.
+# Abaixo o arquivo com a linha comentada para instruções.
+```
+[Imgem](https://drive.google.com/open?id=1np3we40v7H9gFqzuRKWUlIXoBqA_hwd-)
+```bash
 # Rodando com emuladores abertos: 
 
 # Run app (ios)
