@@ -72,6 +72,7 @@ $ cd ../mobile && npm i
 # Uma outra configuração necessária antes de executar o projeto no disposito ou emulador
 # é alterar o ip local do projeto para o da sua máquina.
 # Edite o arquivo "api" em: /be-the-hero/mobile/src/services. Há uma linha comentada instruindo.
+###
 
 # Rodando com emuladores abertos: 
 
