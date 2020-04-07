@@ -69,13 +69,10 @@ $ cd ../mobile && npm i
 # Tenha pré-configurado algum emulador virtual (ex: Android Studio, Genymotion) ou rode no seu dispositivo por QRCode com Expo. 
 # Mais detalhes em https://expo.io/. 
 #
-# Uma outra configuração necessária, antes de executar o projeto no disposito ou emulador
+# Uma outra configuração necessária antes de executar o projeto no disposito ou emulador
 # é alterar o ip local do projeto para o da sua máquina.
-# Edite o arquivo "api" em: /be-the-hero/mobile/src/services.
-# Abaixo o arquivo com a linha comentada para instruções.
-```
-[Imgem](https://drive.google.com/open?id=1np3we40v7H9gFqzuRKWUlIXoBqA_hwd-)
-```bash
+# Edite o arquivo "api" em: /be-the-hero/mobile/src/services. Há uma linha comentada instruindo.
+
 # Rodando com emuladores abertos: 
 
 # Run app (ios)
