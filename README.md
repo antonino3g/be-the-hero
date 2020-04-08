@@ -76,11 +76,12 @@ $ npm start
 $ cd ../mobile && npm i
 
 
-# Tenha pré-configurado algum emulador virtual (ex: Android Studio, Genymotion) ou rode no seu dispositivo por QRCode com Expo. 
+# Tenha pré-configurado algum emulador virtual (ex: Android Studio, Genymotion) ou 
+# rode no seu dispositivo por QRCode com o app Expo. 
 # Mais detalhes em https://expo.io/. 
 #
-# Uma outra configuração necessária antes de executar o projeto no disposito ou emulador
-# é alterar o ip local do projeto para o da sua máquina.
+# Uma outra configuração necessária antes de executar o projeto, é alterar o ip local do projeto 
+# para o da sua máquina.
 # Edite o arquivo "api" em: /be-the-hero/mobile/src/services. Há uma linha comentada instruindo.
 
 # Dentro do diretório mobile, rode com algum emulador aberto: 
@@ -102,7 +103,7 @@ $ npm run android
 
 ### :mortar_board: Quem ministrou?
 
-A semana de programação foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g)
+Por [Diego Fernandes](https://github.com/diego3g)
 
 ## :memo: License
 
