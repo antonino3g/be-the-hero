@@ -12,17 +12,6 @@
 
 Criado com o intuito de ajudar ONG's que cuidam de animais e que queiram divulgar seus casos para arrecadação fundos.
 
-### :recycle: Como contribuir
-
-- Fork esse repositório;
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
-- Push a sua branch: `git push origin my-feature`
-
-### :mortar_board: Quem ministrou?
-
-A semana de programação foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g)
-
 ## Demos
 
 Frontend Web            |  Mobile
@@ -103,6 +92,17 @@ $ npm run ios
 $ npm run android
 
 ```
+
+### :recycle: Como contribuir
+
+- Fork esse repositório;
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+
+### :mortar_board: Quem ministrou?
+
+A semana de programação foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g)
 
 ## :memo: License
 
