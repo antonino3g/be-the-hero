@@ -8,6 +8,12 @@
   <a href="#memo-license">License</a>
 </p>
 
+## Demos
+
+Frontend Web            |  Mobile
+:-------------------------:|:-------------------------:
+![](/demos/frontend.gif)  |  ![](/demos/mobile.gif)
+
 
 ## :rocket: Technologies
 
@@ -65,16 +71,15 @@ $ npm start
 # Vá no diretório do backend e instale as dependências 
 $ cd ../mobile && npm i
 
-###
+
 # Tenha pré-configurado algum emulador virtual (ex: Android Studio, Genymotion) ou rode no seu dispositivo por QRCode com Expo. 
 # Mais detalhes em https://expo.io/. 
 #
 # Uma outra configuração necessária antes de executar o projeto no disposito ou emulador
 # é alterar o ip local do projeto para o da sua máquina.
 # Edite o arquivo "api" em: /be-the-hero/mobile/src/services. Há uma linha comentada instruindo.
-###
 
-# Rodando com emuladores abertos: 
+# Dentro do diretório mobile, rode com algum emulador aberto: 
 
 # Run app (ios)
 $ npm run ios
@@ -89,4 +94,4 @@ $ npm run android
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 -----
-:wave: [Entrar em contato](https://www.linkedin.com/in/antoninopraxedes/)
+:wave: [Entrar em contato LinkedIn](https://www.linkedin.com/in/antoninopraxedes/)
