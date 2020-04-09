@@ -8,7 +8,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-## :muscle: Sobre o projeto
+## Sobre o projeto
 
 Criado com o intuito de ajudar ONG's que cuidam de animais e que queiram divulgar seus casos para arrecadação fundos.
 
