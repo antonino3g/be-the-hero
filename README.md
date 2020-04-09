@@ -50,7 +50,7 @@ Mobile
 
 ## :information_source: How To Use
 
-Para clonar e rodar este projeto, necessita-se que tenha instalado [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) ou mais recente + [Yarn v1.13](https://yarnpkg.com/) ou mais atual em computador. Comandos para executar:
+Para clonar e rodar este projeto, necessita-se que tenha instalado [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) ou mais recente + [Yarn v1.13](https://yarnpkg.com/) ou mais atual em seu computador. Comandos para executar:
 
 ```bash
 
