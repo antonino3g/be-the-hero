@@ -10,7 +10,7 @@
 
 ## Sobre o projeto
 
-Esse projeto consiste em um servidor backend com uma API REST para ser acessada em uma aplicaçãp mobile e web.
+Esse projeto consiste em um servidor backend com uma API REST para ser acessada em uma aplicação mobile e web.
 
 </p>
 <p align="center">
