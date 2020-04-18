@@ -12,12 +12,10 @@
 
 Criado com o intuito de ajudar ONG's que cuidam de animais e que queiram divulgar seus casos para arrecadação fundos.
 
-## Demos
-
-Frontend Web            |  Mobile
-:-------------------------:|:-------------------------:
-![](/demos/frontend.gif)  |  ![](/demos/mobile.gif)
-
+</p>
+<p align="center">
+  <img alt="BeTheHero" src="demos/bethehero.png" width="100%">
+</p>
 
 ## :rocket: Technologies
 
@@ -100,10 +98,6 @@ $ npm run android
 - Crie uma branch com a sua feature: `git checkout -b my-feature`
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
-
-### :mortar_board: Quem ministrou?
-
-Por [Diego Fernandes](https://github.com/diego3g)
 
 ## :memo: License
 
