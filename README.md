@@ -101,7 +101,7 @@ $ npm run android
 
 ## :memo: License
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/apfjunior/be-the-hero/blob/master/LICENSE) para mais detalhes.
 
 -----
 :wave: [Entrar em contato no LinkedIn](https://www.linkedin.com/in/antoninopraxedes/)
