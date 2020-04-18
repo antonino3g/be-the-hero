@@ -10,7 +10,7 @@
 
 ## Sobre o projeto
 
-Criado com o intuito de ajudar ONG's que cuidam de animais e que queiram divulgar seus casos para arrecadação fundos.
+Esse projeto consiste em um servidor backend com uma API REST para ser acessada em uma aplicaçãp mobile e web.
 
 </p>
 <p align="center">
