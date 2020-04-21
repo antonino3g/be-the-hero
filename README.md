@@ -10,7 +10,7 @@
 
 ## Sobre o projeto :bulb:
 
-Esse projeto consistiu na construção de uma API REST para ser acessada em uma aplicação web e mobile.
+Este projeto consistiu na construção de uma API REST para ser acessada em uma aplicação web e mobile.
 
 </p>
 <p align="center">
