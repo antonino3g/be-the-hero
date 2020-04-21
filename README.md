@@ -8,7 +8,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-## Sobre o projeto
+## Sobre o projeto :bulb:
 
 Esse projeto consistiu na construção de uma API REST para ser acessada em uma aplicação web e mobile.
 
