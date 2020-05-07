@@ -10,7 +10,7 @@
 
 ## Sobre o projeto :bulb:
 
-Este projeto consistiu na construção de uma API REST para ser acessada em uma aplicação web e mobile.
+Este projeto consistiu na construção de uma API REST para ser acessada em uma aplicação web e mobile. Feito na semana de programação Omnistack 11 da [Rocketseat](https://rocketseat.com.br/). 
 
 </p>
 <p align="center">
