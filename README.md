@@ -3,6 +3,15 @@
 </h4>
 
 <p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/apfjunior/be-the-hero">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apfjunior/be-the-hero">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/apfjunior/be-the-hero">
+  <a href="https://github.com/apfjunior">
+    <img alt="Made by Antonino Praxedes" src="https://img.shields.io/badge/created%20by-Antonino%20Praxedes-blue">
+  </a>
+</p>
+
+<p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
